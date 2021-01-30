@@ -4,8 +4,8 @@ import { Link } from 'gatsby'
 export default function Home() {
   return (
     <>
-      <div>IM CHANGING!</div>
-      <Link to="about">to about</Link>
+      <div>THIS IS STAGING!</div>
+      <Link to="about">TO STAGING HAHA</Link>
     </>
   )
 }
